@@ -1,6 +1,6 @@
 {
   "dealership": "North Star Chevrolet Buick Gmc Ltd",
-  "generated_at": "2026-09-26T18:37:11",
+  "generated_at": "2026-10-08T14:42:17",
   "vehicle_count": 11,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -15,7 +15,9 @@
       "dealer_url": "https://www.northstarcranbrook.ca/inventory/2027-chevrolet-blazer-ev-lt-NSiOX97lQmKnbgzFcaZetgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T18:34:56",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "New2027ChevroletBoltLT",
@@ -29,7 +31,9 @@
       "price": 40636.0,
       "price_currency": "CAD",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "New2027ChevroletBoltLT",
@@ -43,7 +47,9 @@
       "price": 41131.0,
       "price_currency": "CAD",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "New2027ChevroletBoltRS",
@@ -57,7 +63,9 @@
       "price": 45611.0,
       "price_currency": "CAD",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "New2027ChevroletTraverseZ71",
@@ -69,7 +77,9 @@
       "dealer_url": "https://www.northstarcranbrook.ca/inventory/2027-chevrolet-traverse-z71-4HxXBc2RRbKzyOqYO5ocjgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T18:36:03",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "New2027GMCAcadiaAT4",
@@ -81,7 +91,9 @@
       "dealer_url": "https://www.northstarcranbrook.ca/inventory/2027-gmc-acadia-at4-wRahKWDjRcqEGB3R8oh3sAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T18:36:13",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "New2027GMCAcadiaDenali Ultimate",
@@ -93,7 +105,9 @@
       "dealer_url": "https://www.northstarcranbrook.ca/inventory/2027-gmc-acadia-denali-ultimate-SWugupi9SeuFl8uJ6mmlVgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T18:36:23",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "New2027GMCAcadiaElevation",
@@ -105,7 +119,9 @@
       "dealer_url": "https://www.northstarcranbrook.ca/inventory/2027-gmc-acadia-elevation-EqurXAABSdiqUlggOGgy2Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T18:36:34",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "New2027GMCTerrainAWD Denali",
@@ -117,7 +133,9 @@
       "dealer_url": "https://www.northstarcranbrook.ca/inventory/2027-gmc-terrain-awd-denali-Rmhbi2WSTUWxleSXvQm5igvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T18:36:44",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "New2027GMCTerrainAWD Denali",
@@ -129,7 +147,9 @@
       "dealer_url": "https://www.northstarcranbrook.ca/inventory/2027-gmc-terrain-awd-denali-uqfWUiDgRWebTjYVarirJAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T18:36:54",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     },
     {
       "name": "New2027GMCTerrainAWD Denali",
@@ -141,7 +161,9 @@
       "dealer_url": "https://www.northstarcranbrook.ca/inventory/2027-gmc-terrain-awd-denali-wKPRNkTHTLOFURZWO4EsPgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T18:37:03",
       "odometer_km": 24000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Cranbrook",
+      "province": "BC"
     }
   ]
 }
